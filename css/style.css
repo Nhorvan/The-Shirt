@@ -1,0 +1,19 @@
+.navbar-nav .nav-link{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+h1{
+    font-family: "Overlock", sans-serif;
+    font-weight: bold;
+}
+.btn {
+    background-color: rgb(219, 84, 17);
+    border: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+
+}
+
